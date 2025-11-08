@@ -53,7 +53,7 @@ tibcopasswordrevealer.py version 1.0
 
 Dependencies
 ------------
-* For the `Python` version: PyCrypto (`apt-get install python-crypto` or `pip install pycrypto`)
+* For the `Python` version: PyCrypto (`pip install pycryptodome`)
 * For the Windows standalone version: nothing
 
 Changelog
